@@ -1,0 +1,27 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Bana Bir Sebep Ver</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Bana Bir Sebep Ver</h1>
+        <p>Bu uygulama, kullanıcıdan bir sebep alır ve bu sebebi ekrana yazar.</p>
+        <input type="text" id="sebepInput" placeholder="Bir sebep girin...">
+        <button onclick="gonderSebep()">Gönder</button>
+        <p id="sonuc"></p>
+    </div>
+    <script>
+        function gonderSebep() {
+            var sebep = document.getElementById("sebepInput").value;
+            if (sebep) {
+                document.getElementById("sonuc").innerText = "Sebep: " + sebep;
+            } else {
+                document.getElementById("sonuc").innerText = "Lütfen bir sebep girin.";
+            }
+        }
+    </script>
+    </body>
+</html>
