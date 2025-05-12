@@ -13,7 +13,7 @@ _Wilhelm Reich_
 
 🔹 Sayfa Sayısı / Süre: 1 saat
 
-🔹 Link / Erişim: https://chat.whatsapp.com/FujPEIaJi0fDMYLS7WfOZn
+🔹 Link / Erişim: [WhatsApp Grubu](https://chat.whatsapp.com/FujPEIaJi0fDMYLS7WfOZn)
 
 ### 📌 Okumanın Amacı:
 
