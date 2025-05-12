@@ -40,3 +40,8 @@ Bu ayki okuma ile [konu hakkında temel bilgi edinmek / farklı bakış açılar
 - [Soru 3 – isteğe bağlı]
 
 📅 Toplantı Tarihi ve Saati: [Varsa belirlenen tarih]
+
+
+# Okuma Listesi
+## Mayıs 2025
+- [Dinle Küçük Adam - _Wilhelm Reich_](https://banabirsebepver.com/OkumaListesi/001%20-%20Dinle%20Küçük%20Adam)
