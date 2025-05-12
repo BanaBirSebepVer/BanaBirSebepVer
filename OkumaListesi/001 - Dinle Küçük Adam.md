@@ -3,21 +3,21 @@ _Wilhelm Reich_
 
 ### 📖 Haftalık Okuma | 12 Mayıs 2025 - 19 Mayıs 2025
 
-🔹 Konu: Kendimizi nerede konumlandırıyoruz?
+🔹 Konu: **Toplumda kendimizi nerede konumlandırıyoruz?**
 
 🔹 Okuma Başlığı: **Dinle Küçük Adam**
 
 🔹 Yazar: **Wilhelm Reich**
 
-🔹 Tür: Deneme - Kitap
+🔹 Tür: **Deneme - Kitap**
 
-🔹 Sayfa Sayısı / Süre: 1 saat
+🔹 Sayfa Sayısı / Süre: **1 saat**
 
 🔹 Link / Erişim: [WhatsApp Grubu](https://chat.whatsapp.com/FujPEIaJi0fDMYLS7WfOZn)
 
 ### 📌 Okumanın Amacı:
 
-Bu hafta Wilhelm Reich'in **Dinle Küçük Adam** denemesini okuyacağız. Deneme; birey olarak toplumda neler yaşandığını ve bunlara nasıl tepkiler verdiğimizi farklı bir dille aktarıyor. Türkçe'ye Şems A. Yeğin çevirdiği kitap _Payel Yayınevi_ tarafından basılıyor. Yeni bakış açısı kazanmak için okunması tavsiye edilen bir kitap
+Bu hafta Wilhelm Reich'in **Dinle Küçük Adam** denemesini okuyacağız. Deneme; birey olarak toplumda neler yaşandığını ve bunlara nasıl tepkiler verdiğimizi farklı bir dille aktarıyor. Türkçe'ye Şems A. Yeğin'in çevirdiği kitap _Payel Yayınevi_ tarafından basıldı. Yeni bakış açısı kazanmak için okunması tavsiye edilen bir kitap
 
 ### 🧭 Tartışma Soruları:
 
