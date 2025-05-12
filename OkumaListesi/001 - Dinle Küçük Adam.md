@@ -1,6 +1,8 @@
 # Dinle Küçük Adam
 _Wilhelm Reich_
 
+<img align="left" width="170" src="https://books.ms/covers/2537000/020cd11bed19b17a582741e8bdbd9af6-g.jpg">
+
 ### 📖 Haftalık Okuma | 12 Mayıs 2025 - 19 Mayıs 2025
 
 🔹 Konu: **Toplumda kendimizi nerede konumlandırıyoruz?**
