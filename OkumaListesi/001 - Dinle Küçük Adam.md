@@ -3,7 +3,7 @@ _Wilhelm Reich_
 
 <img align="left" width="170" src="img/001.jpg">
 
-### 📖 Aylık Okuma | Mayıs 2025 - Mayıs 2025
+### 📖 Aylık Okuma | Mayıs 2025
 
 🔹 Konu: **Toplumda kendimizi nerede konumlandırıyoruz?**
 
