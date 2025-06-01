@@ -45,5 +45,7 @@ Bu ayki okuma ile [konu hakkında temel bilgi edinmek / farklı bakış açılar
 # Okuma Listesi
 ## Haziran 2025
 - [1984 - _George Orwell_](https://banabirsebepver.com/OkumaListesi/002%20-%201984)
+
+
 ## Mayıs 2025
 - [Dinle Küçük Adam - _Wilhelm Reich_](https://banabirsebepver.com/OkumaListesi/001%20-%20Dinle%20Küçük%20Adam)
