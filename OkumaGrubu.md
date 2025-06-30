@@ -43,6 +43,10 @@ Bu ayki okuma ile [konu hakkında temel bilgi edinmek / farklı bakış açılar
 
 
 # Okuma Listesi
+## Temmuz 2025
+- [Cesur Yeni Dünya - _Aldous Huxley_](https://banabirsebepver.com/OkumaListesi/003%20-%20Cesur%20Yeni%20Dünya)
+
+
 ## Haziran 2025
 - [1984 - _George Orwell_](https://banabirsebepver.com/OkumaListesi/002%20-%201984)
 
