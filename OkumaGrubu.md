@@ -1,5 +1,6 @@
 # 📚 Okuma Grubu
 [WhatsApp Grubu](https://chat.whatsapp.com/FujPEIaJi0fDMYLS7WfOZn) 
+
 [Discord Grubu](https://discord.gg/sHjXuSCv8v)
 
 Bu grup, katılımcıların farklı konularda düzenli olarak metin veya kitap okuyarak entelektüel gelişimlerini desteklemeyi amaçlayan bir okuma topluluğudur. Her ay belirlenen temalar doğrultusunda önerilen okumalar grupta paylaşılır. Okuma sonrası düzenlenen çevrimiçi toplantılar aracılığıyla, okunan metinler üzerine düşünceler paylaşılır ve fikir alışverişi yapılır.
