@@ -47,13 +47,17 @@ Bu ayki okuma ile [konu hakkında temel bilgi edinmek / farklı bakış açılar
 
 
 # Okuma Listesi
+## Ekim 2025
+- [Fahrenheit 451 - _Ray Bradbury_](https://banabirsebepver.org/OkumaListesi/004%20-%20Fahrenheit%20451)
+
+
 ## Temmuz 2025
-- [Cesur Yeni Dünya - _Aldous Huxley_](https://banabirsebepver.com/OkumaListesi/003%20-%20Cesur%20Yeni%20Dünya)
+- [Cesur Yeni Dünya - _Aldous Huxley_](https://banabirsebepver.org/OkumaListesi/003%20-%20Cesur%20Yeni%20Dünya)
 
 
 ## Haziran 2025
-- [1984 - _George Orwell_](https://banabirsebepver.com/OkumaListesi/002%20-%201984)
+- [1984 - _George Orwell_](https://banabirsebepver.org/OkumaListesi/002%20-%201984)
 
 
 ## Mayıs 2025
-- [Dinle Küçük Adam - _Wilhelm Reich_](https://banabirsebepver.com/OkumaListesi/001%20-%20Dinle%20Küçük%20Adam)
+- [Dinle Küçük Adam - _Wilhelm Reich_](https://banabirsebepver.org/OkumaListesi/001%20-%20Dinle%20Küçük%20Adam)
