@@ -101,3 +101,19 @@ p {
 .whatsapp-button:hover {
     background-color: #128C7E;
 }
+
+.dicord-button {
+    display: block;
+    background-color: #7289da;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 24px;
+    text-align: center;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.discord-button:hover {
+    background-color: #424549;
+}
