@@ -117,3 +117,19 @@ p {
 .discord-button:hover {
     background-color: #424549;
 }
+
+.rules-button {
+    display: block;
+    background-color: #3d251e;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 24px;
+    text-align: center;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.rules-button:hover {
+    background-color: #8b6c5c;
+}
