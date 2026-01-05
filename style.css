@@ -119,9 +119,9 @@ p {
     background-color: #424549;
 }
 
-.rules-button {
+.github {
     display: block;
-    background-color: #3d251e;
+    background-color: #0d0d0d;
     color: white;
     text-decoration: none;
     padding: 12px 20px;
@@ -131,6 +131,6 @@ p {
     transition: background-color 0.3s;
 }
 
-.rules-button:hover {
-    background-color: #8b6c5c;
+.github:hover {
+    background-color: #222222;
 }
