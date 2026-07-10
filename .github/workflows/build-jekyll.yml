@@ -1,4 +1,4 @@
-name: Github Pages
+name: Github Sayfaları Oluşturuluyor
 
 on:
   push:
