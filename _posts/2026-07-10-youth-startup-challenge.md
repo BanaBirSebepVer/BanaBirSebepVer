@@ -2,19 +2,16 @@
 layout: post
 category: duyuru
 title: "Youth Start-Up Challenge (YSC) 2026"
-author: can_bekcan
+author: Can Bekcan
 date: 2026-07-10
 permalink: /youth-start-up-challenge-2026/
 excerpt_image: https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg
 tags: [yarışma, girişimcilik, gençlik, Avrupa Komisyonu]
 top: 1
 ---
+![banner](https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg)
 
 # 🚀 Youth Start-Up Challenge (YSC) 2026: Fikrinizi Avrupa'nın Yeni Başarı Hikayesine Dönüştürün!
-
-<div align="center">
-  <img src="https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg" alt="YSC 2026 Logo" width="100%"/>
-</div>
 
 Avrupa Komisyonu; yeşil geçiş, dijital dönüşüm, sosyal katılım ve ekonomik dayanıklılık gibi gerçek dünyadaki zorluklara çözüm üretecek cesur ve yaratıcı genç girişimciler arıyor. 
 
