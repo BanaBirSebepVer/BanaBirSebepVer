@@ -5,7 +5,7 @@
 {% if include.params.lang %}
   {% assign lang = include.params.lang %}
 {% else %}
-  {% assign lang = lang | default: site.lang | default: "en" %}
+  {% assign lang = lang | default: site.lang | default: "tr" %}
 {% endif %}
 
 {% if include.params.speed %}
@@ -24,26 +24,18 @@
 {% assign hours = total_mins | divided_by: 60 %}
 {% assign mins = total_mins | modulo: 60 %}
 
-{% assign return = "About" %}
+{% assign return = "Okuma süresi: yaklaşık" %}
 
 {% if hours > 0 %}
-  {% assign unit = "hour" %}
-  {% if hours > 1 %}
-    {% assign unit = unit | append: "s" %}
-  {% endif %}
   {% assign return = return
     | append: " "
     | append: hours
-    | append: " "
-    | append: unit %}
+    | append: " saat" %}
 {% endif %}
 
-{% assign unit = "min" %}
-{% if mins > 1 %}
-  {% assign unit = unit | append: "s" %}
+{% if mins > 0 %}
+  {% assign return = return
+    | append: " "
+    | append: mins
+    | append: " dakika" %}
 {% endif %}
-{% assign return = return
-  | append: " "
-  | append: mins
-  | append: " "
-  | append: unit %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: duyuru
+category: Duyuru
 title: "Youth Start-Up Challenge (YSC) 2026"
 author: Can Bekcan
 date: 2026-07-10
