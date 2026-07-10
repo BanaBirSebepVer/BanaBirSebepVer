@@ -52,7 +52,7 @@ favicon: "" # the favicon for your site
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
-  date_format: "%b %d, %Y"
+  date_format: "%d %B %Y" # Turkish date format
 
 # If you want more debug log, you can set true
 # debug: false
@@ -72,6 +72,7 @@ enableDNT: true
 
 # If you want to change site language, you can set lang option
 lang: "tr"  # default lang is en
+lang_text: "Türkçe"  # default lang_text is English
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -120,7 +121,7 @@ lang: "tr"  # default lang is en
 # brand_color: orangered
 #
 # Custom color as below:
-# brand_color: "#1a8e42"
+brand_color: "#1a8e42"
 
 # You can custom selection style
 # selection:
