@@ -1,5 +1,6 @@
 ---
 layout: post
+category: duyuru
 title: "Youth Start-Up Challenge (YSC) 2026"
 date: 2026-07-10
 permalink: /youth-start-up-challenge-2026/

@@ -1,3 +1,34 @@
+# Site Kimliği
+title: "Bana Bir Sebep Ver"
+description: "Bana Bir Sebep Ver, topluluk üyelerinin birbirlerine destek olabileceği bir platformdur. Burada, motivasyon ve ilham verici içerikler paylaşabilir, sorular sorabilir ve deneyimlerinizi paylaşabilirsiniz."
+url: "https://banabirsebepver.org" # Kendi kullanıcı adınızla güncelleyin
+baseurl: "" # Eğer siteniz ana dizindeyse boş bırakın
+
+# Yazar Bilgileri
+author:
+  name: "Can Bekcan"
+  email: "can@canbekcan.com" # Geçerli bir e-posta adresi
+
+# Tema ve Stil Ayarları
+# (GitHub Pages varsayılan temalarından birini kullanıyorsanız burayı güncelleyin)
+theme: "jekyll-theme-minimal" 
+
+# Eklentiler (Jekyll'in özelliklerini artırmak için)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Sayfa Yapılandırması
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+paginate_path: "/page:num/"
 permalink: pretty
+
+# İsteğe Bağlı: Kendi özel dosyalarınızı/klasörlerinizi dışlamak için
 exclude:
-  - index.html
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
