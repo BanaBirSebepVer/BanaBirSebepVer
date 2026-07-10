@@ -40,7 +40,5 @@ permalink: pretty
 
 # İsteğe Bağlı: Kendi özel dosyalarınızı/klasörlerinizi dışlamak için
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - README.md
   - LICENSE
