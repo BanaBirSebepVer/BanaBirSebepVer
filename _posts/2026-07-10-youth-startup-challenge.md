@@ -2,6 +2,7 @@
 layout: post
 category: duyuru
 title: "Youth Start-Up Challenge (YSC) 2026"
+author: "Can Bekcan"
 date: 2026-07-10
 permalink: /youth-start-up-challenge-2026/
 image: /img/BBSV.svg

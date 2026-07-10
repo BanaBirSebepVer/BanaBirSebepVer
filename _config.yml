@@ -5,9 +5,7 @@ url: "https://banabirsebepver.org" # Kendi kullanıcı adınızla güncelleyin
 baseurl: "" # Eğer siteniz ana dizindeyse boş bırakın
 
 # Yazar Bilgileri
-author:
-  name: "Can Bekcan"
-  email: "can@canbekcan.com" # Geçerli bir e-posta adresi
+author: "Can Bekcan"
 
 # Tema ve Stil Ayarları
 # (GitHub Pages varsayılan temalarından birini kullanıyorsanız burayı güncelleyin)
