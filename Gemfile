@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
-gem "sass-embedded", "~> 1.70"
-gem "jekyll-theme-yat", "1.2.0"
-gem "jekyll-seo-tag"
-gem "jekyll-feed"
-gem "jekyll-sitemap"
-gem "jekyll-paginate"
+gem "jekyll-theme-yat"
+gem "sass-embedded"
+gem "github-pages", group: :jekyll_plugins
