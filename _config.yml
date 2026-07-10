@@ -1,3 +1,5 @@
+remote_theme: jeffreytse/jekyll-theme-yat
+
 # Site Kimliği
 title: "Bana Bir Sebep Ver"
 description: "Bana Bir Sebep Ver, topluluk üyelerinin birbirlerine destek olabileceği bir platformdur. Burada, motivasyon ve ilham verici içerikler paylaşabilir, sorular sorabilir ve deneyimlerinizi paylaşabilirsiniz."
@@ -9,13 +11,22 @@ author: "Can Bekcan"
 
 # Tema ve Stil Ayarları
 # (GitHub Pages varsayılan temalarından birini kullanıyorsanız burayı güncelleyin)
-theme: "jekyll-theme-yat" 
+# theme: "jekyll-theme-minimal" 
 
 # Eklentiler (Jekyll'in özelliklerini artırmak için)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
+
+
+# Yat temasının kendi özel ayarları (Opsiyonel ama önerilir)
+yat:
+  avatar: "/assets/images/logo.png"
+  show_description: true
+  social_links:
+    github: "BanaBirSebepVer"
 
 # Sayfa Yapılandırması
 markdown: kramdown
