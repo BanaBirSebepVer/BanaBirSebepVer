@@ -1,5 +1,8 @@
 remote_theme: jeffreytse/jekyll-theme-yat
 
+sass:
+  style: compressed
+
 # Site Kimliği
 title: "Bana Bir Sebep Ver"
 description: "Bana Bir Sebep Ver, topluluk üyelerinin birbirlerine destek olabileceği bir platformdur. Burada, motivasyon ve ilham verici içerikler paylaşabilir, sorular sorabilir ve deneyimlerinizi paylaşabilirsiniz."
