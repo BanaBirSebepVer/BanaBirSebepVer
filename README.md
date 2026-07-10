@@ -1,7 +1,4 @@
----
-layout: page
-title: "Bana Bir Sebep Ver"
----
+
 # Bana Bir Sebep Ver
 
 <div align="center">
