@@ -3,3 +3,6 @@
 .sass-cache
 _site
 Gemfile.lock
+.DS_Store
+.gitignore
+OLD_Post_Sample/
