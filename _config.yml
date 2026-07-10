@@ -9,7 +9,7 @@ author: "Can Bekcan"
 
 # Tema ve Stil Ayarları
 # (GitHub Pages varsayılan temalarından birini kullanıyorsanız burayı güncelleyin)
-theme: "jekyll-theme-minimal" 
+theme: "jekyll-theme-yat" 
 
 # Eklentiler (Jekyll'in özelliklerini artırmak için)
 plugins:
