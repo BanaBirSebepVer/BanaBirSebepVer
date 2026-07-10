@@ -1,2 +1,0 @@
-# Bana Bir Sebep Ver
-
