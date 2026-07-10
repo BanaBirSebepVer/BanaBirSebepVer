@@ -8,6 +8,7 @@ permalink: /youth-start-up-challenge-2026/
 excerpt_image: https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg
 tags: [yarışma, girişimcilik, gençlik, Avrupa Komisyonu]
 top: 1
+lang: tr
 ---
 ![banner](https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg)
 
