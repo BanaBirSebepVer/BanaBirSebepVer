@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Hakkımızda"
+author: Can Bekcan
+date: 2026-08-20
+permalink: /hakkimizda/
+excerpt_image: 
+tags: []
+top: 1
+lang: tr
+---
+
 # Bana Bir Sebep Ver Topluluğu
 
 Bana Bir Sebep Ver topluluğu olarak dikkat edilmesi gereken durumlar ve kurallar aşağıda belirtilmiştir. Bu kuralların ihlal edilmesi durumunda cezai işlemler uygulanabilir.
