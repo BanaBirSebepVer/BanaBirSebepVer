@@ -6,7 +6,7 @@ sidebar: project-list
 {%- if site.posts.size > 0 -%}
 
   {%- include functions.html func='log' level='debug' msg='Get value' -%}
-  {%- include functions.html func='get_categories' -%}
+  {%- include functions.html func='get_projects' -%}
   {% assign projects = return %}
 
   {% assign keys = projects %}

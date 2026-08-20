@@ -1,0 +1,12 @@
+{% assign split_mark = '<|>' %}
+
+{% assign projects = '' %}
+{% for category in site.projects %}
+  {% assign name = category | first %}
+  {% assign projects = projects | append: split_mark  | append: name %}
+{% endfor %}
+
+{% assign return = projects
+  | remove_first: split_mark
+  | split: split_mark
+  | sort: self %}
