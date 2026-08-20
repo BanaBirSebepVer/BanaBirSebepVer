@@ -49,13 +49,13 @@ sidebar: project-list
     </div>
     {%- endif -%}
 
-    {%- assign result = hidden | where_exp: "item", "item == 'related_posts'" -%}
+    {%- assign result = hidden | where_exp: "item", "item == 'related_projects'" -%}
     {%- if result.size == 0 -%}
     <div class="post-related">
       <div>İlişkili İçerikler</div>
       <ul>
-        {% assign posts = site[page.collection] | sample:4 %}
-        {%- for post in posts -%}
+        {% assign projects = site[page.collection] | sample:4 %}
+        {%- for post in projects -%}
           {%- assign post_item_class = "" -%}
           {%- if post.top -%}
             {%- assign post_item_class = "top-post" -%}

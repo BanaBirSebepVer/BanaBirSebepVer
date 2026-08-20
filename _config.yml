@@ -25,8 +25,8 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: jeffreytse/jekyll-theme-yat
 title: Bana Bir Sebep Ver
-email: can@canbekcan.com
-author: Can Bekcan
+email: info@banabirsebepver.org
+author: BBSV
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -55,7 +55,7 @@ yat:
   date_format: "%d %B %Y" # Turkish date format
 
 # If you want more debug log, you can set true
-# debug: false
+debug: true
 
 # If you don't want transparent header, you can set false
 # header_transparent: true
