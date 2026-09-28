@@ -62,11 +62,41 @@ _**italic and bold text**_ is used to define italic and bold text.
 
 
 ## References
-Youth Start-Up Challenge Resmi Sayfası [1]
-[2] Youth Start-Up Challenge Resmi Sayfası
+Can Bekcan[1]
 
-Can Bekcan[3]
+Bana Bir Sebep Ver[2]
 
-[1]: https://futurium.ec.europa.eu/en/promoting-enterprise/youth-start-challenge
-[2]: https://futurium.ec.europa.eu/en/promoting-enterprise/youth-start-challenge "Youth Start-Up Challenge Resmi Sayfası"
-[3]: https://canbekcan.com "Can Bekcan"
+[1]: https://canbekcan.com "Can Bekcan"
+[2]: https://banabirsebepver.com "Bana Bir Sebep Ver"
+
+```
+[1]: https://canbekcan.com "Can Bekcan" 
+This is the reference link. You may change it to any other link if you want to use a different reference link.
+```
+
+
+## Tables
+```
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+```
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+
+
+## Images
+```
+![Bana Bir Sebep Ver](/assets/images/banners/BBSV.png)
+This image path is related to the root directory of the project. You may change it to any other image path if you want to use a different image.
+```
+![Bana Bir Sebep Ver](/assets/images/banners/BBSV.png)
+
+```
+![Bana Bir Sebep Ver](https://raw.githubusercontent.com/BanaBirSebepVer/Kanallar/refs/heads/main/imaj/v1.3.png)
+This image path is related to outside of the project. You may change it to any other image path if you want to use a different image.
+```
+![Bana Bir Sebep Ver](https://raw.githubusercontent.com/BanaBirSebepVer/Kanallar/refs/heads/main/imaj/v1.3.png)
