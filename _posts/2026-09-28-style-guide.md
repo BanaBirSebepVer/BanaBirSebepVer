@@ -78,14 +78,14 @@ This is the reference link. You may change it to any other link if you want to u
 ## Tables
 ```
 | Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
+| - | - | - |
+| Row 1 | Data 1 | Data 2 |
+| Row 2 | Data 3 | Data 4 |
 ```
 | Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
+| - | - | - |
+| Row 1 | Data 1 | Data 2 |
+| Row 2 | Data 3 | Data 4 |
 
 
 ## Images
