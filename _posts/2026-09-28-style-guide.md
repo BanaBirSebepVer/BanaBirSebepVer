@@ -1,12 +1,12 @@
 ---
 layout: post ## Leave as post
-category: Duyuru ## Define the category
+category: Rehber ## Define the category
 title: "Markdown Style Guide for Students" # Write the title of the aricle
 author: Can Bekcan ## Write the author of the article
 date: 2026-09-28 # Write the date of the article
 # permalink: /youth-start-up-challenge-2026/
 excerpt_image: https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png # Paste the image url here
-tags: [yarışma, girişimcilik, gençlik, Avrupa Komisyonu] # Write the tags of the article
+tags: [markdown, stil, öğrenci] # Write the tags of the article
 # top: 1
 lang: tr # Write the language of the article. If the article is in English, write "en"
 ---
