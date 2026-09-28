@@ -65,5 +65,5 @@ _**italic and bold text**_ is used to define italic and bold text.
 [1] Youth Start-Up Challenge Resmi Sayfası
 [2] Youth Start-Up Challenge Resmi Sayfası
 
-[1]: https://futurium.ec.europa.eu/en/promoting-enterprise/youth-start-challenge "Youth Start-Up Challenge Resmi Sayfası"
+[1]: https://futurium.ec.europa.eu/en/promoting-enterprise/youth-start-challenge
 [2]: https://futurium.ec.europa.eu/en/promoting-enterprise/youth-start-challenge "Youth Start-Up Challenge Resmi Sayfası"
