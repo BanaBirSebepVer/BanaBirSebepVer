@@ -1,9 +1,0 @@
-{%- include functions.html func='log' level='debug' msg='Get projects value' -%}
-
-{%- include functions.html func='get_projects' -%}
-{% assign projects = return %}
-
-{% assign keys = projects %}
-{% assign field = 'projects' %}
-{% assign url = '/projects.html' | relative_url %}
-{% include sidebar/common-list.html %}
