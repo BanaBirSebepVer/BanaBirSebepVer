@@ -5,7 +5,7 @@ title: "Youth Start-Up Challenge (YSC) 2026" # Write the title of the aricle
 author: Can Bekcan ## Write the author of the article
 date: 2026-07-10 # Write the date of the article
 # permalink: /youth-start-up-challenge-2026/
-excerpt_image: https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg # Paste the image url here
+excerpt_image: https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png # Paste the image url here
 tags: [yarışma, girişimcilik, gençlik, Avrupa Komisyonu] # Write the tags of the article
 # top: 1
 lang: tr # Write the language of the article. If the article is in English, write "en"
@@ -13,9 +13,9 @@ lang: tr # Write the language of the article. If the article is in English, writ
 
 # Heading 1
 
-![banner](https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg) 
+![banner](https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png) 
 ```
-https://futurium.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg
+https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png
 
 This is the banner image link. You may change it to any other image link if you want to use a different banner image.
 ```
