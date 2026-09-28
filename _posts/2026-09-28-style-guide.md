@@ -1,6 +1,6 @@
 ---
 layout: post ## Leave as post
-category: Rehber ## Define the category
+category: Klavuz ## Define the category
 title: "Markdown Style Guide for Students" # Write the title of the aricle
 author: Can Bekcan ## Write the author of the article
 date: 2026-09-28 # Write the date of the article
