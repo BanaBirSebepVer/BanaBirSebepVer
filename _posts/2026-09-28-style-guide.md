@@ -36,6 +36,12 @@ When you need to define subtitle, you should use "##" then give space and write 
 ### Heading 3
 When you need to define sub-subtitle, you should use "###" then give space and write the sub-subtitle.
 
+
+## Text Formatting
+
+
+### Bullet Points
+
 ```
 * is used to define bullet points. You can use "-" instead of "*".
 ```
@@ -43,6 +49,18 @@ When you need to define sub-subtitle, you should use "###" then give space and w
 * bullet 2
   * bullet 2.1
   * bullet 2.2
+
+```
+1. is used to define numbered lists.
+```
+1. Numbered list 1
+2. Numbered list 2
+  2.1 Numbered list 2.1
+  2.2 Numbered list 2.2
+
+
+
+### Text Style
 
 ```
 **bold text** is used to define bold text.
